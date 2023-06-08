@@ -34,7 +34,13 @@ select the corresponding order and click :guilabel:`Print Receipt`.
    You can filter the list of orders using the search bar. Type in your reference and click
    :guilabel:`Receipt Number`, :guilabel:`Date`, or :guilabel:`Customer`.
 
+<<<<<<< HEAD
 
+||||||| parent of f7c16f872 (temp)
+=======
+.. _receipts-invoices/invoices:
+
+>>>>>>> f7c16f872 (temp)
 Invoices
 ========
 
