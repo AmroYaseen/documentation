@@ -62,3 +62,4 @@ by clicking on the journal entry.
 .. note::
    You are not forced to start from the vendor bill, you can also go in :menuselection:`Inventory
    --> Operations --> Landed Costs` and directly create the landed cost from there.
+   thank you 
